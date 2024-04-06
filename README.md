@@ -13,5 +13,7 @@ The basic procedures implemented to achieve the goals of this research are:
 7. Test the model with random image data
 
 a. Programming Language - Python
+
 b. Libreary/Packages - Numpy,Pandas,MatPlotlib,Seaborn,Scikit-learn,Keras,Tensorflow
+
 c. Algorithm - Convolutional Neural Network(CNN)
